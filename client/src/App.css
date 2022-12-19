@@ -1,0 +1,15 @@
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: inherit;
+  padding: 20px;
+  background-color: blue;
+}
+
+.container1 {
+  width: 60%;
+  padding: 40px;
+  border-radius: 10px;
+  background: #fff;
+}
